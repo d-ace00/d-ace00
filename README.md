@@ -1,7 +1,10 @@
 ## Hi there 👋
+* Call me D.
 * I am currently working on Cloud Computing
 * Currently learning Github/Gitbash
+* Currently learning Azure
 * I am looking for help getting into the cloud computing field 
+* I am looking into collaboration with anyone interested in Cloud computing
 <!--
 **d-ace00/d-ace00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
